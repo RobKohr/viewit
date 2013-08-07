@@ -3,6 +3,11 @@
   "version": "0.0.1",
   "description": "An express oriented module that allows for quick addition of sub modules for you site such as forums, auth, blogs, etc",
   "main": "index.js",
+  "repository" :
+  	       { "type" : "git",
+		 "url" : "https://github.com/RobKohr/viewit.git"
+	       } 
+
   "dependencies":{
     "ejs":"*"
   },
